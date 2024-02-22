@@ -1,6 +1,6 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Nadia Islam Nupur</h1>
-<h3 align="center">Want to be MERN stack web developer</h3>
+<h3 align="center">Want to be a Fullstack web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 - 🔭 I’m currently working on a few projects base on HTML,CSS,JavaScript
 
