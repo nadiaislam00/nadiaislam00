@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 - 🔭 I’m currently working on a few projects base on HTML,CSS,JavaScript
 
-- 🌱 I’m currently learning **HTML,CSS,JS.**
+- 🌱 I’m currently learning **HTML, CSS, JS.**
 
-- 👯 I’m looking to collaborate on **IT sectors**
+- 👯 I’m looking to collaborate on **Frontend projects**
 
 - 📫 How to reach me **just DM me on islamnadia289@gmail.com**
 
