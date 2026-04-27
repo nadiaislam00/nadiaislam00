@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 - 🔭 I’m currently working on a few projects based on React & Next
 
-- 🌱 I’m expertise on **HTML, CSS, JS, React.js, Next.js, Node.js**
+- 🌱 I’m expertise on **HTML, CSS, JS, Tailwind, Bootstrap, React.js, Next.js, Node.js**
 
 - 👯 I’m looking to collaborate on **Real world projects**
 
